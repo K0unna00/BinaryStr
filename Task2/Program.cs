@@ -28,7 +28,7 @@
 
 static void Test()
 {
-    string[] cases = ["111000", "10010", "101", "1002"];
+    string[] cases = ["111000", "10010", "101", "1002", "111110"];
 
     foreach (string str in cases)
     {
